@@ -1,8 +1,8 @@
 # Folder Dependensi
 node_modules/
 
-# Data Autentikasi Baileys (Sangat Penting!)
-# Ganti 'auth_info_baileys' dengan nama folder sesi Anda
+# Data Autentikasi Baileys
+# Ganti 'auth_info_baileys' 
 auth_info_baileys/
 session/
 auth/
@@ -17,6 +17,6 @@ logs/
 # Variabel Lingkungan
 .env
 
-# Folder Output Build (jika menggunakan TypeScript)
+# Folder Output Build 
 dist/
 build/
